@@ -1,4 +1,4 @@
-package com.example.gps_donde_estou
+package com.example.gps
 
 import android.os.Bundle
 
