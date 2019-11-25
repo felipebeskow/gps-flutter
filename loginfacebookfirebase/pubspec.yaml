@@ -1,4 +1,4 @@
-name: gps
+name: loginfacebookfirebase
 description: A new Flutter project.
 
 # The following defines the version and build number for your application.
@@ -19,7 +19,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
 
   flutter_facebook_login: ^3.0.0
   firebase_auth: ^0.15.0+1
